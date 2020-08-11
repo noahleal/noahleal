@@ -1,7 +1,7 @@
 ### Hey, I'm Noah - aka [lagathos][website] 👋
 
 ## I'm a Reader, Painter, Chef, Bartender and Developer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to join a new team in Berlin
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I study and translate Ancient Greek 🇬🇷
